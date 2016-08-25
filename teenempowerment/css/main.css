@@ -268,9 +268,16 @@ float:right;
     background-color: rgba(76, 63, 191, 0.1);;
 
   }
-  /*#hamburger.black{*/
-
+  #menu{
+    position: absolute;
+    top: 0;
+    right: 1px ;
   }
+   .black{
+    visibility: collapse;
+  }
+
+
 
   #hamburger{
     float: right;
